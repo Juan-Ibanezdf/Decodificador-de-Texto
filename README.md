@@ -23,12 +23,12 @@ O **Decodificador de Texto** é uma aplicação web que permite a encriptação 
 
 1. Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/Juan-Ibanezdf/Decodificador-de-Texto
+   git clone https://github.com/Juan-Ibanezdf/Decodificador-de-Texto.git
    ```
 
 ## Sobre o ONE (Oracle Next Education)
 
-**O Oracle Next Education (ONE) é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. O curso é 100% online e totalmente gratuito, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.**
+O Oracle Next Education (ONE) é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras. O curso é 100% online e totalmente gratuito, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
 
 ### Esta formação faz parte do programa ONE, uma parceria entre Alura e Oracle.
 Contribuição
