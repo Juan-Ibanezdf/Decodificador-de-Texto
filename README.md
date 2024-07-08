@@ -40,3 +40,6 @@ Contribuição
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+## Teste a Aplicação
+Você pode testar a aplicação acessando o link: [Decodificador de Texto](https://juan-ibanezdf.github.io/Decodificador-de-Texto/)
